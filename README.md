@@ -25,59 +25,33 @@ Also in this dataset, 26 unique Premier League teams have participated, each pla
 
 ### Data dictionary
 
-Date :  date the match was played
-
-Time :  local time the match was played
-
-Comp:  level in the country's league pyramid the league occupies
-
-Round:  phase of competition
-
-Day :  day of week
-
-Venue:  Stadium where the game was played either away or home
-
-Result:  Match outcome either a win,  draw or loss
-
-GF: goals for
-
-GA:  goals against
-
-Opponent:  team playing against
-
-XG:  expected goals not including penalty shootouts
-
-XGA:  expected goals allowed
-
-Poss:  percentage of passes attempted
-
-Attendance:  attendance per game during the season for home matches
-
-Captain: Team lead player
-
-Formation : number of players in each row from defenders to forwards, not including the goalkeeper
-
-Referee: Neutral player officiating the match
-
-Match Report:  contains summary of all columns
-
-Notes:  additional details on the scores i.e penalty goals and whether there was any additional time
-
-Sh :  total shots not including penalty kicks
-
-SoT :  shots on target not including penalty kicks
-
-FK :  shots from free kicks resulting from fouls
-
-Dist :  average distance in yards from goal of all shots taken
-
-PK: Penalty kicks
-
-PKatt : penalty kicks attempted
-
-Season:  Playing period 
-
-Team : team playing
+> * Date :  date the match was played
+> * Time :  local time the match was played
+> * Comp:  level in the country's league pyramid the league occupies
+> * Round:  phase of competition
+> * Day :  day of week
+> * Venue:  Stadium where the game was played either away or home
+> * Result:  Match outcome either a win,  draw or loss
+> * GF: goals for
+> * GA:  goals against
+> * Opponent:  team playing against
+> * XG:  expected goals not including penalty shootouts
+> * XGA:  expected goals allowed
+> * Poss:  percentage of passes attempted
+> * Attendance:  attendance per game during the season for home matches
+> * Captain: Team lead player
+> * Formation : number of players in each row from defenders to forwards, not including the goalkeeper
+> * Referee: Neutral player officiating the match
+> * Match Report:  contains summary of all columns
+> * Notes:  additional details on the scores i.e penalty goals and whether there was any additional time
+> * Sh :  total shots not including penalty kicks
+> * SoT :  shots on target not including penalty kicks
+> * FK :  shots from free kicks resulting from fouls
+> * Dist :  average distance in yards from goal of all shots taken
+> * PK: Penalty kicks
+> * PKatt : penalty kicks attempted
+> * Season:  Playing period 
+> * Team : team playing
 
 ## Data Preparation and cleaning
 *Importing the necessary libraries into our notebook for analysis
