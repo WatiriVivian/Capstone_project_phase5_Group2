@@ -218,15 +218,10 @@ Given that it had the highest precision, of 0.73 indicating a relatively low rat
 
 
 
-Model Evaluation
-The Area Under the ROC Curve (AUC-ROC) was used to quantify the overall performance of the model. 
 
 
 
 
-Model selection 
-The Gradient Boosting model outperforms others because it achieves a high level of accuracy, precision, and recall, as well as a good balance between precision and recall (as indicated by the F1-score). Moreover, its AUC score of 0.839 shows that it excels in distinguishing between different match outcomes, making it the best choice for predicting football match outcomes in your context.
-Given that it had the highest precision,of 0.73 indicating a relatively low rate of false positive predictions. We choose the gradient boost model
 
 
 
