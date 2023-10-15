@@ -16,11 +16,15 @@ It features three data types:
  * 14 Object columns
    
 Columns include date, match details, team information, and various performance metrics.
+
 Notably, the 'Attendance' column has around 29% null values, and the 'Notes' column is entirely null.
+
 Fortunately, there are no duplicate records.
+
 Also in this dataset, 26 unique Premier League teams have participated, each playing a varying number of matches ranging from 38 to 228 over multiple seasons.
 
 #### Data dictionary
+
 Date :  date the match was played
 
 Time :  local time the match was played
