@@ -7,7 +7,9 @@ Assist betting enthusiasts in making more informed decisions.
 ## Data understanding
 
 This dataset was scraped from [website](https://fbref.com/en/comps/9/Premier-League-Stats):
+
 There are **46 columns** and **4700**
+
 It features three data types: 
  * 1 Integer
  * 31 Float
