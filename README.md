@@ -23,7 +23,7 @@ Fortunately, there are no duplicate records.
 
 Also in this dataset, 26 unique Premier League teams have participated, each playing a varying number of matches ranging from 38 to 228 over multiple seasons.
 
-<u>**Data dictionary**</u>
+### Data dictionary
 
 Date :  date the match was played
 
