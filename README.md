@@ -6,13 +6,13 @@ Assist betting enthusiasts in making more informed decisions.
 
 ## Data understanding
 
-This dataset was scraped from website"(https://fbref.com/en/comps/9/Premier-League-Stats)":
+This dataset was scraped from website(https://fbref.com/en/comps/9/Premier-League-Stats):
 There are **46 columns** and **4700**
 It features three data types: 
  * 1 Integer
  * 31 Float
  * 14 Object columns
- * 
+   
 Columns include date, match details, team information, and various performance metrics.
 Notably, the 'Attendance' column has around 29% null values, and the 'Notes' column is entirely null.
 Fortunately, there are no duplicate records.
