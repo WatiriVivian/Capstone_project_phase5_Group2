@@ -1,7 +1,7 @@
+# Football predictive model
 <img src="https://github.com/WatiriVivian/Capstone_project_phase5_Group2/assets/128227310/0bb93928-1487-459a-b1b1-207e31585f9f" width="900" height="500" alt="Image Description">
 
 
-# Football predictive model
 ## Business Problem
 Assist betting enthusiasts in making more informed decisions.
 > The **Football Predictive Model** enhances football decision-making using data analytics and machine learning.
