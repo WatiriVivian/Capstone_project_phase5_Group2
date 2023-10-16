@@ -4,7 +4,7 @@ Assist betting enthusiasts in making more informed decisions.
 > The **Football Predictive Model** enhances football decision-making using data analytics and machine learning.
 > It offers insights, predictions, and recommendations based on historical data and player statistics, benefiting clubs, coaches, and stakeholders, as well as providing accurate predictions for betting groups.
 
-> ![image](https://github.com/WatiriVivian/Capstone_project_phase5_Group2/assets/128227310/25ed578c-f61e-4849-831e-7f37b15fa843)
+> ![image](https://github.com/WatiriVivian/Capstone_project_phase5_Group2/assets/128227310/25ed578c-f61e-4849-831e-7f37b15fa843)<img src="image_url" alt="Image Description" width="500" height="400">
 
 ## Data understanding
 
